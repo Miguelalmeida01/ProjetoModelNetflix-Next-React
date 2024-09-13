@@ -54,4 +54,8 @@ a api.
 ## Projeto na web
  
 
-<a href="https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-?tab=readme-ov-file#project-delivery---creating-a-landing-page-with-react--rocketseat" style="color:#B0E0E6">Voltar</a> 
+https://github.com/user-attachments/assets/d2f4c542-df5f-41d0-99b0-afb1918669ab
+
+
+
+<a href="https://github.com/Miguelalmeida01/ProjetoModelNetflix-Next-React/blob/main/Readme-pt.md#entrega-de-projeto---criando-uma-interface-inspirado-na-netflix" style="color:#B0E0E6">Voltar</a> 
