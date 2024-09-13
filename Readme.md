@@ -50,6 +50,10 @@ The API.
  ## Web project 
  
 
+https://github.com/user-attachments/assets/951e88f0-58c4-4495-bf9f-383d086078e8
+
+
+
  
 <a href="https://github.com/Miguelalmeida01/ProjetoTimer-CursoRocketseat-?tab=readme-ov-file#project-delivery---creating-a-landing-page-with-react--rocketseat" style="color:#B0E0E6;" >
 Back</a> 
